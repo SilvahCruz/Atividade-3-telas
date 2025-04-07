@@ -34,6 +34,17 @@ div {
     
 }
 
+
+
+#esqueci:hover {
+    text-decoration: underline;
+}
+
+#esqueci{
+    text-decoration: none;
+    color: black;
+}
+
 #botao {
      margin-top: 35px;
 }
@@ -42,5 +53,10 @@ form {
     display: flex;
     flex-direction: column;
     align-items: center;
+}
+
+.check {
+    display: flex;
+   
 }
 
