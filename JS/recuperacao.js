@@ -1,4 +1,4 @@
 function concluir() {
     alert('Senha Alterada! Você retornará ao hub!')
-    window.location.href = 'index.html'; 
+    window.location.href = 'index.php'; 
 }
