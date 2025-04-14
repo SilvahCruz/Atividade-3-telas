@@ -7,7 +7,7 @@
     <title>validação Atividade Jean</title>
     <meta name='viewport' content='width=device-width, initial-scale=1'>
     <link rel='stylesheet' type='text/css' media='screen' href='../CSS/validacao.css'>
-    <script src='/JS/validacao.js'></script>
+    <script src='../JS/validacao.js'></script>
 </head>
 
 <body>

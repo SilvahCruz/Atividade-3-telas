@@ -7,7 +7,7 @@
     <title> Recuperacao Atividade Jean</title>
     <meta name='viewport' content='width=device-width, initial-scale=1'>
     <link rel='stylesheet' type='text/css' media='screen' href='../CSS/style.css'>
-    <script src='/JS/recuperacao.js'></script>
+    <script src='../JS/recuperacao.js'></script>
 </head>
 <body>
     
